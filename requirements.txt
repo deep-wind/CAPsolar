@@ -1,4 +1,4 @@
-pip
+python -m pip install --upgrade pip
 https://github.com/pallets/click.git
 
 streamlit
