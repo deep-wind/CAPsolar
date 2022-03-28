@@ -1,3 +1,4 @@
+pip3 install --upgrade --force-reinstall click
 streamlit
 pandas
 keras
