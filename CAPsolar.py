@@ -12,7 +12,17 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.pylab as pylab
 #import base64
-from click import *
+from setuptools import setup
+
+setup(
+    name="myhello",
+    version='0.1',
+    py_modules=['hello'],
+    install_requires=[
+        'Click',
+    ],
+  
+)
   
 st.markdown("<h1 style ='color:green; text_align:center;font-family:times new roman;font-weight: bold;font-size:20pt;'>Impact of Aerosols in Solar Power Generation </h1>", unsafe_allow_html=True)  
 
