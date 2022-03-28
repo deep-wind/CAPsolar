@@ -1,5 +1,5 @@
 pip==22.0.4
-https://github.com/pallets/click.git
+
 
 streamlit
 pandas
