@@ -1,4 +1,4 @@
-pip-tools==1.11.0
+https://github.com/pallets/click.git
 
 streamlit
 pandas
