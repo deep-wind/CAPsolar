@@ -1,0 +1,10 @@
+streamlit
+pandas
+keras
+tensorflow
+xlrd
+openpyxl
+plotly
+matplotlib
+sklearn
+pyhdf
