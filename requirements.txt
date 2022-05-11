@@ -1,6 +1,4 @@
 pip==22.0.4
-
-click>=7.0
 streamlit
 pandas
 keras
